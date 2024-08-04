@@ -1,0 +1,28 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  max-width: 100%;
+  
+  
+  
+}
+.row-app{
+  --bs-gutter-x: 0rem;
+  margin-top: 100px;
+}
+
+
+.contents{
+  left:16.5%;
+  scroll-behavior: smooth;
+  height: 85vh;
+}
+
+
+
+
+
+
+
+
